@@ -1,0 +1,6 @@
+product_id,product_name,stock
+201,Laptop,50
+202,Mouse,100
+203,Keyboard,75
+204,Monitor,30
+205,CPU,-1

@@ -1,0 +1,10 @@
+customer_id,name,email,phone_number
+1,John Doe,john.UPDATED@email.com,555-0000
+2,Jane Smith,jane.smith@email.com,555-5678
+3,Bob Wilson,bob.NEW@email.com,555-1111
+4,Alice Brown,alice.brown@email.com,555-4444
+5,Charlie Davis,charlie.davis@email.com,555-7766
+6,New Customer,new.customer@email.com,555-9876
+7,Raj,raj2244@email.com,9999999999
+8,Ravi,ravi2244@email.com,9999999999
+9,Tejesh,Tejeshvarma3322@gmail.com,8985986776
