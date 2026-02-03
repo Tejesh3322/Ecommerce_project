@@ -12,5 +12,5 @@ customers.to_sql("raw_customers", conn, if_exists="append", index=False)
 products.to_sql("raw_products", conn, if_exists="append", index=False)
 orders.to_sql("raw_orders", conn, if_exists="append", index=False)
 
-print("Raw data loaded successfully!")
+print("Raw data loaded successfully")
 
