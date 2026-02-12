@@ -107,4 +107,4 @@ for _, row in df_merged.iterrows():
 conn.commit()
 conn.close()
 
-print("Inventory Reconciliation Completed!")
+print("Inventory Reconciliation Completed")
